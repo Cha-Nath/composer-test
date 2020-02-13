@@ -7,12 +7,6 @@
         "monolog/monolog": "^2.0",
         "symfony/yaml": "^4.3"
     },
-    "authors": [
-        {
-            "name": "Chanteux Nathan",
-            "email": "firminchanteux@gmail.com"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "nc\\": "nc/"
