@@ -1,0 +1,21 @@
+{
+    "name": "nathanchanteux/composer-test",
+    "description": "Composer Test",
+    "license": "MIT",
+    "require": {
+        "php" : ">=7.0",
+        "monolog/monolog": "^2.0",
+        "symfony/yaml": "^4.3"
+    },
+    "authors": [
+        {
+            "name": "Chanteux Nathan",
+            "email": "firminchanteux@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "lib\\": "lib/"
+        }
+    }
+}
